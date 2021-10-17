@@ -5,7 +5,9 @@ In this application you will be able to create a Markdown for different project 
 ## Installation
 To install this application create inquierer prompts and call them to the generate markdown file. 
 ## Usage
-[This video demostrates how to use the README Generator](https://watch.screencastify.com/v/92eGXRRCK6kD0nOH8hsa)
+This video demostrates how to use the README Generator <br>
+video using screen castify (https://watch.screencastify.com/v/92eGXRRCK6kD0nOH8hsa)
+
 ## Credits
 I'd like to thank my class mates Ismeny Saguilan, Jayla Da'nae and Damien Luzzo for their help with this application.
 ## License
